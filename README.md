@@ -145,3 +145,8 @@ Dependências dos pacotes que devem ficar em package.json:
 ## Créditos
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+
+# Imagens do Projeto
+
+![01](https://github.com/GislaineMartins/Curso_Angular_Udemy/blob/master/01.PNG)
+
