@@ -150,3 +150,11 @@ Todas as imagens usadas na aplicação são pertencentes a freepik.com
 
 ![01](https://github.com/GislaineMartins/Curso_Angular_Udemy/blob/master/01.PNG)
 
+![02](https://github.com/GislaineMartins/Curso_Angular_Udemy/blob/master/02.PNG)
+
+![03](https://github.com/GislaineMartins/Curso_Angular_Udemy/blob/master/03.PNG)
+
+![04](https://github.com/GislaineMartins/Curso_Angular_Udemy/blob/master/04.PNG)
+
+
+
